@@ -36,14 +36,14 @@ The system classifies CT Scan images into **disease / no disease categories** ba
 ### ✅ Confusion Matrix
 The confusion matrix shows how well the model performed on test data.  
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](CONFUSION-MATRIX-2.png)
 
 ---
 
 ## 🔗 Access the Model
 Scan the QR code below to access and test the trained model:  
 
-![QR Code](qr.png)
+![QR Code](QR-2.png)
 
 ---
 
